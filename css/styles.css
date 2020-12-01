@@ -37,7 +37,7 @@ h2{
 }
 .icons .far:hover{
     color: rgb(117, 32, 134);
-    transform: scale(0.98);
+    transform: scale(2);
 }
 
 @media(max-width: 700px){
