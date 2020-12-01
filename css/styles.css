@@ -29,7 +29,7 @@ h2{
 .icons .fab, .far{
     padding: 15px;
     color: #000;
-    transition: 1s;
+    transition: 0.8s;
 }
 .icons .fab:hover{
     color: rgb(117, 32, 134);
